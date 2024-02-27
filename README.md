@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=usmanmahmood940&color=blue&base=1000&abbreviated=true)
 
 
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmahmood940&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmahmood940&layout=donut-horizontal)](https://github.com/usmanmahmood940/usmanmahmood940)
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmahmood940&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmahmood940&layout=donut-horizontal)](https://github.com/usmanmahmood940/usmanmahmood940)
 
 
 <!--
