@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=usmanmahmood940&color=blue&base=1000&abbreviated=true)
 
