@@ -1,6 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=usmanmahmood940&color=blue&base=1000&abbreviated=true)
 
+
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanmahmood940&show_icons=true&theme=radical)
 <!--
 **usmanmahmood940/usmanmahmood940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
